@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=30&center=true&vCenter=true&width=800&lines=📊+New+Era+Adaptive+Learning+Companion)
+
+---
+
 # New-Era-Adaptive-Learning-Companion
 The New Era Personalized Learning Platform is an innovative educational solution that tracks students’ mood and engagement in real-time to provide personalized study plans and adaptive learning recommendations. Teachers gain insights through dashboards to monitor emotional well-being and academic readiness, enabling timely interventions.  
 ## 🚀 Project Overview
