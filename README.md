@@ -33,7 +33,10 @@ Traditional education systems often **ignore students’ emotional and psycholog
 ---
 
 ### 🏛 Architecture & Methodology
-![Architectural Diagram](Tech Architecture.png)
+<img width="1536" height="1024" alt="Tech Architecture" src="https://github.com/user-attachments/assets/797d000c-5d31-41cf-afb0-bd4b9a5ae00d" />
+
+
+![Dynamic Workflow](diagram-export-8-28-2025-9_50_56-PM.png)
 
 **Workflow Overview:** Student → Survey → Data Analysis → Dashboard → Personalized Plan → Feedback Loop → Hosted on Azure
 
